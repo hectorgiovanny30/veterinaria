@@ -1,0 +1,8 @@
+body {
+  margin: 0;
+  padding: 0;
+  /* Un gradiente suave azul-violeta moderno */
+  background: linear-gradient(135deg, #e0f7fa 0%, #e1bee7 100%);
+  background-attachment: fixed; /* Para que el fondo no se mueva al hacer scroll */
+  min-height: 100vh;
+}
